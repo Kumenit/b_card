@@ -1,0 +1,47 @@
+html{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #222324;
+    color: white;
+}
+
+.main{
+    width:375px;
+	height:800px;
+  
+	position:relative;
+	top:120px;
+	border-radius:20px;
+	text-align:center;
+	background-color:black;
+}
+img{
+    width: 375px;
+    height: 250px;
+    border-radius:10px;
+}
+#h5{
+    position: relative;
+    top:-15px;
+}
+#p1{
+    position: relative;
+    top:-30px;
+}
+button{
+    background-color: white;
+    color: black;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.center{
+    text-align: left;
+    padding-left: 15px;
+    
+}
+#p2{
+    font-size: 15px;
+}
